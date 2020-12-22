@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ...
+- 📫 How to reach me: adeshgangwar1996@gmail.com
 - 😄 Pronouns: Gangwar
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: If you'll ask me to keep a thing in  mind I'm 100% sure I'll forget that.
 
