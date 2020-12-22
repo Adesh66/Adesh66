@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Adeshgangwar1996@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Adesh66/about_me](https://github.com/Adesh66/about_me)
+- 📄 Know about my experiences [https://adesh66.github.io/about_me](https://adesh66.github.io/about_me/)
 
 - ⚡ Fun fact **If you'll ask me to keep a thing in mind I'm 100% sure I'll forget that.**
 
