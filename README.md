@@ -32,6 +32,10 @@
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 <p align="center">
 
+  
+<br>
+  
+  
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adesh66&show_icons=true&locale=en&layout=compact" alt="adesh66" />
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adesh66&show_icons=true&locale=en" alt="adesh66" /></p> -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adesh66&" alt="adesh66" />
